@@ -1,0 +1,10 @@
+{
+    "go.goroot": "/usr/local/go",
+    "go.gopath": "/go",
+    "terminal.integrated.profiles.linux": {
+        "bash (login)": {
+            "path": "sh",
+            "args": ["-l"]
+        }
+    }
+}
